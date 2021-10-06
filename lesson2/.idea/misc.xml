@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Alexandr/Desktop/projects/mobile/lesson2/app/src/main/res/drawable/avatar1.xml" value="0.2703125" />
+        <entry key="..\:/Users/Alexandr/Desktop/projects/mobile/lesson2/app/src/main/res/drawable/book_open_variant.xml" value="0.2703125" />
         <entry key="..\:/Users/Alexandr/Desktop/projects/mobile/lesson2/app/src/main/res/drawable/gradient.xml" value="0.2703125" />
+        <entry key="..\:/Users/Alexandr/Desktop/projects/mobile/lesson2/app/src/main/res/drawable/ic_back.xml" value="0.2703125" />
         <entry key="..\:/Users/Alexandr/Desktop/projects/mobile/lesson2/app/src/main/res/drawable/like.xml" value="0.2703125" />
+        <entry key="..\:/Users/Alexandr/Desktop/projects/mobile/lesson2/app/src/main/res/drawable/menu_icon.xml" value="0.2703125" />
         <entry key="..\:/Users/Alexandr/Desktop/projects/mobile/lesson2/app/src/main/res/drawable/shape_rectangle.xml" value="0.2703125" />
         <entry key="..\:/Users/Alexandr/Desktop/projects/mobile/lesson2/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
