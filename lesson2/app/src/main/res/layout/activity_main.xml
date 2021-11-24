@@ -199,7 +199,7 @@
                     android:layout_marginTop="@dimen/message_margin"
                     android:layout_marginRight="@dimen/message_margin"
                     android:fontFamily="sans-serif-condensed"
-                    android:text="@string/into_component_container_and_with_resizing_constraints_set"
+                    android:text="@string/Welcome"
                     android:textSize="@dimen/message_textSize" />
 
 
