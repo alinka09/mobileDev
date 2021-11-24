@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lesson3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_operand">Введите первое число</string>
+    <string name="next">Далее</string>
+    <string name="second_operand">Введите второе число</string>
+    <string name="back">Назад</string>
+    <string name="action">Введите действие</string>
+    <string name="result">Результат:</string>
+</resources>
